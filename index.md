@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: article
 title: Cornell Cubing Club
 mode: immersive
 header:

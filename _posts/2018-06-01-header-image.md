@@ -1,5 +1,5 @@
 ---
-title: Post with Header Image
+title: Comp at Penn
 tags: TeXt
 article_header:
   type: cover
