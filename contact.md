@@ -18,4 +18,5 @@ Vice-President
 Treasurer
 
 [Ravi Ramakrishna](ravi@math.cornell.edu)
+
 Advisor
