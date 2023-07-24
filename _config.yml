@@ -21,14 +21,13 @@ highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "t
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : Cornell Cubing Club
-description: > # this means to ignore newlines until "Language & timezone"
+description: >  # this means to ignore newlines until "Language & timezone" 
   We are dedicated to the art and science of speedcubing: solving Rubik's cubes and other twisty puzzles as fast as possible. We can teach everyone new strategies and algorithms, from beginners to experts. Your background should not matter - anyone can learn to cube! Most importantly, our aim is to build up and provide a community for cubers on campus to come together.
-
 
 ## => Language and Timezone
 ##############################
 lang: en # the language of your site, default as "en"
-timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+timezone: America/Toronto # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
 ## => Author and Social
@@ -36,7 +35,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 author:
   type      : organization # "person" (default), "organization"
   name      : 
-  url       :
+  url       : https://cornell.campusgroups.com/rubiksclub/home/
   avatar    : # path or url of avatar image (square)
   bio       : 
   email     : 
