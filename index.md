@@ -14,3 +14,13 @@ article_header:
 ---
 
 ## Welcome
+
+## How to Join
+
+Join our Discord:
+
+Join our Campus Groups:
+
+Join our ListServ to get regular emails about meetings: 
+
+Follow us on Instagram: 
