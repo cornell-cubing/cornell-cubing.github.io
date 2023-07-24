@@ -25,8 +25,15 @@ titles:
   # @end locale config
 key: page-about
 ---
-## About
+
+Welcome to the Cornell Cubing Club!
 
 ## Mission
 
 We are dedicated to the art and science of speedcubing: solving Rubik's cubes and other twisty puzzles as fast as possible. We can teach everyone new strategies and algorithms, from beginners to experts. Your background should not matter - anyone can learn to cube! Most importantly, our aim is to build up and provide a community for cubers on campus to come together.
+
+## Rental System
+
+## Competitions
+
+## Meetings
