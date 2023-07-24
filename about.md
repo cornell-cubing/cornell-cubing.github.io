@@ -34,6 +34,8 @@ We are dedicated to the art and science of speedcubing: solving Rubik's cubes an
 
 ## Rental System
 
+No cube, no worries! Feel free to borrow any one of our cubes and return them at the next club meeting. Available cubes include: 
+
 ## Competitions
 
 ## Meetings
