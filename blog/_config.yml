@@ -4,40 +4,42 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
+
+## !USE TEXT THEME
+theme: jekyll-text-theme # Gem-based Jekyll Themes
+# remote_theme: kitian616/jekyll-TeXt-theme # Jekyll Remote Theme, see https://github.com/benbalter/jekyll-remote-theme for more information.
 #
 # ,--------.      ,--.   ,--. ,--.
 # '--.  .--',---.  \  `.'  /,-'  '-.
 #    |  |  | .-. :  .'    \ '-.  .-'
 #    |  |  \   --. /  .'.  \  |  |
 #    `--'   `----''--'   '--' `--'
-
-
-
-
 ## => Site Settings
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Cornell Cubing Club
-description: >  # this means to ignore newlines until "Language & timezone" # We are dedicated to the art and science of speedcubing: solving Rubik's cubes and other twisty puzzles as fast as possible. We can teach everyone new strategies and algorithms, from beginners to experts. Your background should not matter - anyone can learn to cube! Most importantly, our aim is to build up and provide a community for cubers on campus to come together.
+title   : Your Site Title
+description: > # this means to ignore newlines until "Language & timezone"
+  Your Site Description
+
 
 ## => Language and Timezone
 ##############################
-lang: en # the language of your site, default as "en"
-timezone: America/Toronto # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+lang: # the language of your site, default as "en"
+timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
 ## => Author and Social
 ##############################
 author:
-  type      : organization # "person" (default), "organization"
-  name      : 
-  url       : https://cornell.campusgroups.com/rubiksclub/home/
+  type      : # "person" (default), "organization"
+  name      : Your Name
+  url       :
   avatar    : # path or url of avatar image (square)
-  bio       : 
-  email     : 
+  bio       : I am an amazing person.
+  email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
