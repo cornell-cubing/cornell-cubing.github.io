@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Tutorials
-key: page-tutorial
+key: page-tutorials
 ---
 
 Learn how to solve!

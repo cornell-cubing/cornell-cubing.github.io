@@ -75,7 +75,7 @@ header:
       fr-LU   : *FR
       tr      : &TR
       # @end locale config
-    url: /tutorial.html
+    url: /tutorials.html
 
   - titles:
       # @start locale config
