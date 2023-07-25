@@ -105,7 +105,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Home
+      en      : &EN       News
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -127,4 +127,4 @@ header:
       fr-LU   : *FR
       tr      : &TR
       # @end locale config
-    url: /home.html
+    url: /blog/index.html

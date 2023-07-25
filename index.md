@@ -9,11 +9,8 @@ article_header:
   theme: dark
   background_color: '#203028'
   background_image:
-    # filter: 'brightness(70%)'
-    # gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     gradient: 'linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5))'
     src: ./assets/images/cubes.jpg
-    #https://discord.gg/VyXbMqXg8f
 ---
 
 ## Welcome
@@ -33,10 +30,10 @@ Join our ListServ during ClubFest to get regular emails about meetings!
 <div class="grid-container">
 <div class="grid grid--p-3">
 <div class="cell cell--12 cell--md-5 cell--lg-4" markdown="1">
-![Image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_circle+shadow"){:.circle.shadow}
+![Image](./assets/images/male_user_large.png){:.circle.shadow}
 </div>
 <div class="cell cell--12 cell--md-5 cell--lg-4" markdown="1">
-![Image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_circle+shadow"){:.circle.shadow}
+![Image](./assets/images/male_user_large.png){:.circle.shadow}
 </div>
 </div>
 </div>
