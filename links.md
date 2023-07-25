@@ -11,6 +11,7 @@ key: page-links
 ### Competitions
 
 [World Cube Association](https://www.worldcubeassociation.org/)
+
 [Cubing USA](https://www.cubingusa.org/)
 
 
@@ -23,5 +24,7 @@ key: page-links
 
 ### Purchase Cubes
 [The Cubicle](https://www.thecubicle.com/)
+
 [SpeedCubeShop](https://speedcubeshop.com/)
+
 [DailyPuzzles](https://us.dailypuzzles.com.au/)
