@@ -127,4 +127,4 @@ header:
       fr-LU   : *FR
       tr      : &TR
       # @end locale config
-    url: /blog/index.html
+    url: /news.html

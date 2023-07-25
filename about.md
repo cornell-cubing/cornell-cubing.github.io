@@ -56,7 +56,7 @@ Various 4x4's, 5x5's, 6x6's, and 7x7's
 
 ## Competitions
 
-We attend competitions approximately once a semester and would love to have you come along. No experience is required. To see past competitions that we have competed in, check out some of our posts in [News](/news.html).
+We attend competitions approximately once a semester and would love to have you come along. No experience is required. To see past competitions that we have competed in, check out some of our posts on the [News](/news.html) page.
 
 ## Meetings
 
