@@ -13,6 +13,11 @@ key: page-news
 <div class="layout--home">
   {%- include paginator.html -%}
 </div>
+<script>
+  {%- include scripts/home.js -%}
+</script>
+
+{{ content }}
 <!-- <ul>
   {% for post in site.posts %}
     <li>
