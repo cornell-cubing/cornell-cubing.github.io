@@ -23,7 +23,7 @@ Join our [Campus Groups](https://cornell.campusgroups.com/rubiksclub/home/)
 
 Follow us on Instagram [@cornellcubingclub](https://www.instagram.com/cornellcubingclub/?igshid=MzRlODBiNWFlZA%3D%3D)
 
-Join our ListServ during ClubFest to get regular emails about meetings!
+Join our ListServ during ClubFest or by [contacting us](mailto:cubingclubatcornell@gmail.com) to get regular emails about meetings and events!
 
 ## Officers
 
