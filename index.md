@@ -30,6 +30,17 @@ Join our ListServ during ClubFest to get regular emails about meetings!
 
 ## Officers
 
+<div class="grid-container">
+<div class="grid grid--p-3">
+<div class="cell cell--12 cell--md-5 cell--lg-4" markdown="1">
+![Image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_circle+shadow"){:.circle.shadow}
+</div>
+<div class="cell cell--12 cell--md-5 cell--lg-4" markdown="1">
+![Image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_circle+shadow"){:.circle.shadow}
+</div>
+</div>
+</div>
+
 The current officers for the 2023-2024 school year are:
 
 [Frank Zhou](mailto:fcz5@cornell.edu)
