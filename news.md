@@ -1,15 +1,17 @@
 ---
 layout: archive
 title: News
-# articles:
-#   data_source: paginator.posts
-#   article_type: BlogPosting
-#   show_cover: false
-#   show_excerpt: true
-#   show_readmore: true
-#   show_info: true
+articles:
+  data_source: paginator.posts
+  article_type: BlogPosting
+  show_cover: false
+  show_excerpt: true
+  show_readmore: true
+  show_info: true
 key: page-news
 ---
+
+{%- include paginator.html -%}
 
 <!-- <ul>
   {% for post in site.posts %}
