@@ -10,12 +10,6 @@ articles:
   show_info: true
 key: page-news
 ---
-<div class="layout--home">
-  {%- include paginator.html -%}
-</div>
-<script>
-  {%- include scripts/home.js -%}
-</script>
 
 {{ content }}
 <!-- <ul>
