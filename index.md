@@ -39,7 +39,6 @@ The current officers for the 2023-2024 school year are:
 
 President
 </div>
-</div>
 <div class="cell cell--12 cell--md-5 cell--lg-4" markdown="1">
 ![Image](./assets/images/male_user_large.png){:.circle.shadow .centered}
 
@@ -65,6 +64,7 @@ Treasurer
 [Ravi Ramakrishna](mailto:ravi@math.cornell.edu)
 
 Advisor
+</div>
 </div>
 </div>
 </div>
