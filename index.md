@@ -36,38 +36,33 @@ The current officers for the 2023-2024 school year are:
 
 [Frank Zhou](mailto:fcz5@cornell.edu)
 
-<p style="text-align:center">
 President
-</p>
 </div>
 <div class="cell cell--12 cell--md-5 cell--lg-4" markdown="1">
 ![Image](./assets/images/male_user_large.png){:.circle.shadow}
 
 [Jason Guo](mailto:sg763@cornell.edu)
 
-<p style="text-align:center">
+
 Vice-President
-</p>
 </div>
 
 <div class="cell cell--12 cell--md-5 cell--lg-4" markdown="1">
+
 ![Image](./assets/images/male_user_large.png){:.circle.shadow}
 
 [Obaed Shah](mailto:os88@cornell.edu)
 
-<p style="text-align:center">
 Treasurer
-</p>
 </div>
 
 <div class="cell cell--12 cell--md-5 cell--lg-4" markdown="1">
+
 ![Image](./assets/images/male_user_large.png){:.circle.shadow}
 
 [Ravi Ramakrishna](mailto:ravi@math.cornell.edu)
 
-<p style="text-align:center">
 Advisor
-</p>
 </div>
 </div>
 </div>
