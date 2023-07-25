@@ -18,13 +18,13 @@ article_header:
 
 ## How to Join
 
-Join our Discord:
+Join our [Discord](https://discord.gg/VyXbMqXg8f) 
 
-Join our Campus Groups: https://cornell.campusgroups.com/rubiksclub/home/
+Join our [Campus Groups](https://cornell.campusgroups.com/rubiksclub/home/)
 
-Follow us on Instagram: [@cornellcubingclub](https://www.instagram.com/cornellcubingclub/?igshid=MzRlODBiNWFlZA%3D%3D)
+Follow us on Instagram [@cornellcubingclub](https://www.instagram.com/cornellcubingclub/?igshid=MzRlODBiNWFlZA%3D%3D)
 
-Join our ListServ to get regular emails about meetings: 
+Join our ListServ during ClubFest to get regular emails about meetings!
 
 ## Officers
 
