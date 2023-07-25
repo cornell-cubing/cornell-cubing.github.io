@@ -127,4 +127,4 @@ header:
       fr-LU   : *FR
       tr      : &TR
       # @end locale config
-    url: /test/index.html
+    url: /blog/index.html
