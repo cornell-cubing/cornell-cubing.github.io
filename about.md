@@ -32,10 +32,14 @@ Welcome to the Cornell Cubing Club!
 
 We are dedicated to the art and science of speedcubing: solving Rubik's cubes and other twisty puzzles as fast as possible. We can teach everyone new strategies and algorithms, from beginners to experts. Your background should not matter - anyone can learn to cube! Most importantly, our aim is to build up and provide a community for cubers on campus to come together.
 
-## Rental System
+## Cube Rental System
 
 No cube, no worries! Feel free to borrow any one of our cubes and return them at the next club meeting. Available cubes include: 
 
 ## Competitions
 
+We attend competitions approximately once a semester and would love to have you come along. No experience is required.
+
 ## Meetings
+
+Current meetings are held in Hollister 368 from 5:30-6:30

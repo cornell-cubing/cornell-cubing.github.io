@@ -4,7 +4,7 @@ titles: Contact Us
 key: page-contact
 ---
 
-##Contact Us
+## Contact Us
 
 <script src="https://unpkg.com/tailwindcss-jit-cdn"></script>
 <form action="{FORM_ENDPOINT}" method="POST">
