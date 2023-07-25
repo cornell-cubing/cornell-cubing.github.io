@@ -30,14 +30,15 @@ Join our ListServ during ClubFest to get regular emails about meetings!
 The current officers for the 2023-2024 school year are:
 
 <div class="grid-container">
-<div class="Officer 1">
+<div class="grid grid--p-3">
+<div class="cell cell--12 cell--md-5 cell--lg-4" markdown="1">
 ![Image](./assets/images/male_user_large.png){:.circle.shadow}
 
 [Frank Zhou](mailto:fcz5@cornell.edu)
 
 President
 </div>
-<div class="Officer 2">
+<div class="cell cell--12 cell--md-5 cell--lg-4" markdown="1">
 ![Image](./assets/images/male_user_large.png){:.circle.shadow}
 
 [Jason Guo](mailto:sg763@cornell.edu)
@@ -45,19 +46,21 @@ President
 Vice-President
 </div>
 
-<div class="Officer 3">
+<div class="cell cell--12 cell--md-5 cell--lg-4" markdown="1">
 ![Image](./assets/images/male_user_large.png){:.circle.shadow}
 
 [Obaed Shah](mailto:os88@cornell.edu)
 
 Treasurer
 </div>
-<div class="Officer 4">
+
+<div class="cell cell--12 cell--md-5 cell--lg-4" markdown="1">
 ![Image](./assets/images/male_user_large.png){:.circle.shadow}
 
 [Ravi Ramakrishna](mailto:ravi@math.cornell.edu)
 
 Advisor
+</div>
 </div>
 </div>
 
