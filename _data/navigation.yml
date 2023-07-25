@@ -53,7 +53,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Tutorial
+      en      : &EN       Tutorials
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
