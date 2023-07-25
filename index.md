@@ -28,11 +28,11 @@ Follow us on Instagram [@cornellcubingclub](https://www.instagram.com/cornellcub
 Join our ListServ during ClubFest or by [contacting us](mailto:cubingclubatcornell@gmail.com) to get regular emails about meetings and events!
 
 ## Officers
-
+<div style="text-align:center">
 The current officers for the 2023-2024 school year are:
 
 <div class="grid-container">
-<div class="grid grid--p-3">
+<div class="grid grid--p-5">
 
 <div style="text-align:center">
 <div class="cell cell--12 cell--md-5 cell--lg-4" markdown="1">
