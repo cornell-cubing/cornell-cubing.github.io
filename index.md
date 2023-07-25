@@ -9,8 +9,9 @@ article_header:
   theme: dark
   background_color: '#203028'
   background_image:
-    filter: 'brightness(70%)'
+    # filter: 'brightness(70%)'
     # gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    gradient: 'linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5))'
     src: ./assets/images/cubes.jpg
     #https://discord.gg/VyXbMqXg8f
 ---
