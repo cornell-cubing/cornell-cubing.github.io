@@ -20,6 +20,7 @@ key: page-links
 
 ### Training Tools
 [2 Sided PLL Recognition](https://speedcubedb.com/t/pllrecog)
+
 [PLL Trainer and Timer](https://jperm.net/algs/pll)
 
 ### Purchase Cubes
