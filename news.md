@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: blog
 title: News
 articles:
   data_source: paginator.posts
@@ -10,8 +10,6 @@ articles:
   show_info: true
 key: page-news
 ---
-
-{%- include paginator.html -%}
 
 <!-- <ul>
   {% for post in site.posts %}
