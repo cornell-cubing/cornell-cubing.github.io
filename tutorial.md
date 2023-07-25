@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Tutorial
+title: Tutorials
 key: page-tutorial
 ---
 
