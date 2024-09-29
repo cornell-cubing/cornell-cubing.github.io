@@ -16,6 +16,7 @@ article_header:
 ## Welcome
 
 Welcome to the Cornell Cubing Club website. We are open to all undergraduate, graduate, and professional students at Cornell.
+Registered Student Organization of Cornell University
 
 ## How to Join
 
